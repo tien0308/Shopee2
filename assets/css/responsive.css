@@ -92,7 +92,18 @@
         display: none;
     }
 
-
+    .home-product-item__sale-off-percent {
+        font-size: 1rem;
+        font-weight: 500;
+        top: -3px;
+    }
+    
+    .home-product-item__sale-off-label {
+        font-size: 1.2rem;
+        line-height: 1rem;
+        top: -2px;
+    }
+    
     @keyframes mobileSearchSideIn {
         from {
             opacity: 0;
