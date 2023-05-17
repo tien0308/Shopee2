@@ -95,6 +95,7 @@
     .home-product-item__sale-off-percent {
         font-size: 1rem;
         font-weight: 500;
+        line-height:1rem;
         top: -3px;
     }
     
