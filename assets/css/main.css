@@ -603,6 +603,7 @@
     font-size: 1.4rem;
     line-height:2rem;
     max-height: 4rem;
+    overflow: hidden;
     font-weight: 500;
     color:var(--text-color);
     margin: 0;
