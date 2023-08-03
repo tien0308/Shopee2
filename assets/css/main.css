@@ -603,6 +603,7 @@
     font-size: 1.4rem;
     line-height:2rem;
     max-height: 4rem;
+    overflow: hidden;
     font-weight: 500;
     color:var(--text-color);
     margin: 0;
@@ -1177,7 +1178,7 @@
 }
 
 .home-product-item__price-current {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     color:var(--primary-color);
     margin-left: 10px;
 

@@ -1,7 +1,6 @@
 /* Mobile & Tablet */
 @media (max-width: 1023px) {
 
-
     .hide-on-mobile-tablet {
         display: none;
     }
@@ -92,7 +91,18 @@
         display: none;
     }
 
-
+    .home-product-item__sale-off-percent {
+        font-size: 1rem;
+        line-height:1rem;
+        font-weight: 500;
+        top: -3px;
+    }
+    
+    .home-product-item__sale-off-label {
+        font-size: 1.2rem;
+        line-height: 1rem;
+        top: -2px;
+    }
     @keyframes mobileSearchSideIn {
         from {
             opacity: 0;
@@ -179,5 +189,10 @@
     .footer__download-app-link {
         display: block;
         padding: 6px 8px;
+    }
+
+    .home-product-item__price-current,
+    .home-product-item__price-old {
+        font-size: 1.3rem;
     }
 }
