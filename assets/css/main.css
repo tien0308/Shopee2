@@ -1231,6 +1231,7 @@ i.home-product-item__like-icon-fill {
     color:#595959;
     font-size:1.2rem;
     font-weight: 300;
+    padding: 10px;
 } 
 
 .home-product-item__origin-name {
